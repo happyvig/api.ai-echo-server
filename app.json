@@ -1,0 +1,7 @@
+{
+  "name": "Echo node server",
+  "description": "Simple node server that simply echoes",
+  "repository": "",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "echo server"]
+}
