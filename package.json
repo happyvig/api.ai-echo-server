@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Echo server",
   "main": "index.js",
+  "repository": "https://github.com/happyvig/api.ai-echo-server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
